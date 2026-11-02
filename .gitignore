@@ -1,0 +1,9 @@
+node_modules/
+.angular/
+movie-ui/.angular/
+dist/
+target/
+.idea/
+.DS_Store
+*.log
+.env
